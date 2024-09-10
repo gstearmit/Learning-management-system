@@ -1,7 +1,17 @@
-# e-learning
+# (10/09/2024 Update) e-learning
 https://github.com/Tsonewa/e-learning
 
 E-learning microservice architecture application build with String and Angular, Kafka, Eureka, Zuul Gateway, NGINX. Use relational, hash and nonrelational for data managing - PostgreSQL, Redis, MongoDB.
+
+# 10/09/2024 Update --- >Khả năng quan sát các dịch vụ vi mô
+
+Khả năng quan sát là gì và tại sao nó lại liên quan đến các dịch vụ vi mô
+Tổng hợp số liệu với Micrometer , Prometheus và Grafana
+Phân phối theo dõi với Micrometer và Zipkin
+Tổng hợp nhật ký với ELK Stack
+
+https://github.com/nbicocchi/learn-microservices
+
 
 # Learning management system
 
