@@ -1,3 +1,8 @@
+# e-learning
+https://github.com/Tsonewa/e-learning
+
+E-learning microservice architecture application build with String and Angular, Kafka, Eureka, Zuul Gateway, NGINX. Use relational, hash and nonrelational for data managing - PostgreSQL, Redis, MongoDB.
+
 # Learning management system
 
 University's Learning managment system web application built with Spring and Angular.
