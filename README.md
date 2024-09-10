@@ -1,3 +1,10 @@
+# update SonarQube Recommendation monitor log
+API E-Learning - Từ Chiến lược đến Thực hành: Bản thiết kế để Thiết kế Hệ thống Có khả năng mở rộng và Mạnh mẽ
+https://github.com/EmanuelButoiGit/e-learning-app/tree/main
+https://github.com/gstearmit/e-learning-app
+
+Bản thiết kế để thiết kế một hệ thống có khả năng mở rộng và mạnh mẽ
+
 # (10/09/2024 Update) e-learning
 https://github.com/Tsonewa/e-learning
 
